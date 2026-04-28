@@ -68,6 +68,4 @@ Cloud & DevOps: Azure, AWS, Docker, CI/CD pipelines
 
 💼 LinkedIn : https://www.linkedin.com/in/shinersoft-group/
 
-📧 talha149@gmail.com
-
 ⚖️ Some repositories remain private due to HIPAA, IP, and client confidentiality. Demo access can be arranged under NDA.
