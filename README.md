@@ -1,6 +1,6 @@
 👋 Hi, I’m Talha Shaikh
 
-💻 Full-Stack .NET Architect | 🚀 Co-Founder @ Health IT Integrations, LLC | ⚕️ Healthcare SaaS & AI Innovator
+💻 Full-Stack .NET Architect | 🚀 Co-Founder @ Integra 360, LLC | ⚕️ Healthcare SaaS & AI Innovator
 
 I build scalable SaaS platforms that solve real-world problems in Healthcare, E-Commerce, and AI-driven automation. My work focuses on compliance-first software, high-volume transaction systems, and AI-powered solutions that directly improve efficiency, compliance, and profitability.
 
