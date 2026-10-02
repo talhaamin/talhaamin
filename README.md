@@ -64,7 +64,7 @@ Cloud & DevOps: Azure, AWS, Docker, CI/CD pipelines
 
 🤝 Let’s Talk
 
-🌐 Health IT Integrations LLC
+🌐 Integra 360 LLC
 
 💼 LinkedIn : https://www.linkedin.com/in/shinersoft-group/
 
